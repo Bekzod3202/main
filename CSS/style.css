@@ -1,0 +1,21 @@
+body{
+    background-color: gold; 
+    list-style-position: inside;
+}
+.color_aliceblue{
+    color: wheat;
+}
+
+.span-number {
+    color: white;
+}
+
+.links {
+    text-decoration: none;
+    display: block;
+    margin-left: 20px;
+}
+.wrapper{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

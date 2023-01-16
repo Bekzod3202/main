@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(226, 43, 202);
+
+}
+.contanier{
+    text-align: center;
+    list-style: none;
+}
+img{
+    width: 600px;
+    height: 450px;
+}
+#chapter1{
+    text-align: center;
+}
+.food{
+    text-align: center;
+    list-style: none;
+}
+.text{
+    text-align: center;
+}
+.voice{
+    text-align: center;
+}
+.out{
+    text-align: center;
+}
+.time{
+    text-align: center;
+}
+.open{
+    text-align: center;  
+}
+.file{
+    text-align: center;
+}
+.edit{
+    text-align: center;
+
+}
